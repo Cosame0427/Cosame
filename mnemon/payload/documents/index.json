@@ -1,4 +1,26 @@
 {
   "version": 1,
-  "documents": []
+  "documents": [
+    {
+      "id": "5512738c-5c03-4fcd-bd5c-07d44e8c91f7",
+      "title": "课程设计任务书定稿：7 类水果检测计数项目事实基线（供报告/PPT 复用）",
+      "description": "记录课程设计任务书改写的定稿产物、已核实的项目事实（数据集划分、YOLOv8s 训练配置、阈值、系统限制、性能）以及本次改写/校验的工作方法。",
+      "status": "active",
+      "filename": "7-ppt-5512738c.md",
+      "relativePath": "documents/active/7-ppt-5512738c.md",
+      "sourcePaths": [
+        "docs/计算机视觉课程设计任务书_彭小雨_口语版.docx"
+      ],
+      "sessionIds": [
+        "mnemon-review-v1-3d3f3e40-7c17-43fe-b839-2a5f94b49727"
+      ],
+      "createdAt": "2026-11-18T09:26:57.038Z",
+      "updatedAt": "2026-11-18T09:26:57.038Z",
+      "lastAccessedAt": "2026-11-18T09:26:57.038Z",
+      "revision": 1,
+      "contentHash": "ace7a5174be437d7e00f81943ea39ba7b6596b3978b2e6332c4fd1db2b93199b",
+      "sizeBytes": 5301,
+      "memoryBodyIds": []
+    }
+  ]
 }

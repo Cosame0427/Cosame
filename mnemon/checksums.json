@@ -1,10 +1,12 @@
 {
   "algorithm": "sha256",
   "files": {
-    "payload/runtime/memories.json": "7c1051f6e2bc3943b7c1dbe4da229694455681b8875a346c99279e555edb733f",
-    "payload/runtime/USER.md": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "payload/runtime/MEMORY.md": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "payload/documents/index.json": "02dbd87a6d87bb3eb0cf2d22a87efdf8dd323affa7668abf0720108a5fee366c",
-    "payload/data/.dsh-memory-bodies.json": "dc6020b75bab2ed6109193aea9c3427c22d9d2b6edd223c4c8c6cd87ad0c67dd"
+    "payload/runtime/memories.json": "7a8cf9c4cf08d45afbb43b5a34403098f83e86b31acddd244d2583ca3b635f2f",
+    "payload/runtime/USER.md": "dd28b7d390d03ce97e9743dec8ea8a13d8b58184f265d07765adfa66ee5438c5",
+    "payload/runtime/MEMORY.md": "62e58aedb846770748f4ca08beaeaeaf9fb81e93aa62c8ccfb7a9039dfd74f0f",
+    "payload/documents/index.json": "1d8c28b7eaa996a0e4a00978d14fc2bc5ed4f5f39f5ea4713e6e7bad384822bf",
+    "payload/documents/active/7-ppt-5512738c.md": "51502103ce0a0523cb067af73b925adf8992ca146a46eb0c8fdcb5a79edf23ae",
+    "payload/data/.dsh-memory-bodies.json": "0f43a5ddab65de81d9afae54351ecbb1e22b4499ff37c3afc1a58474c182bb95",
+    "payload/data/default/mnemon.db": "e7815777f19f61ec43522e34061d2cd711cb18e21d504a29b232ab77672773f0"
   }
 }
